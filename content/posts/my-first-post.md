@@ -1,0 +1,16 @@
++++
+date = '2026-04-30T12:38:29-05:00'
+draft = false
+title = "Guess we're doing this"
++++
+## Why make a blog?
+I guess I just wanted a place to ramble about the things I'm interested in.
+
+## What stuff will this blog have?
+Anything and everything, pretty much whatever I'm currently hyperfixated on. Music, video games, programming, etc.
+
+## How often will you post here?
+My plan is daily, but realistically I'll end up missing days.
+
+## You do realize nobody cares about reading this blog, right?
+Yeah, idrc.

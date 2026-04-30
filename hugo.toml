@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 locale = 'en-us'
 title = "Kraggle09's Blog"
 theme = 'PaperMod'
+copyright = '[Kraggle09](https://kraggle09.github.io)'
 
 [caches]
   [caches.images]
